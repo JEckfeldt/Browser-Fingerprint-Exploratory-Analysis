@@ -42,15 +42,7 @@ similarity = |intersection| / |union|
 - A small number of user-agents dominate the dataset  
 - Browser strings are highly repetitive (shared prefixes like "Mozilla/5.0")  
 - Bots and applications show more structural variation  
-- Jaccard similarity better captures meaningful differences than raw edit distance  
-
-## Tech Stack
-
-- R  
-- dplyr  
-- ggplot2  
-- stringdist  
-- scales  
+- Jaccard similarity better captures meaningful differences than raw edit distance 
 
 ## How to Run
 
